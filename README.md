@@ -1,4 +1,4 @@
-Here are the web related projects
+Here are the web related projects. Website at https://themispeled.github.io/contest/
 
 **Using spcesim contest edition forever.**
 
